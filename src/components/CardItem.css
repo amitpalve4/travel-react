@@ -1,0 +1,8 @@
+.cards__items{margin: 0 20px;}
+.cards__items .imgWrp{width: 100%;float: left;box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;overflow: hidden;border-radius: 20px;}
+.cards__items .imgWrp img{max-width: 100%;}
+.cards__items .imgWrp .imgInfo{width: 100%;float: left;padding: 15px;}
+.cards__items .imgWrp .imgInfo h5{text-align: left;font-size: 18px;color: #242424;}
+.slick-list, .slick-slider, .slick-track{padding-bottom: 30px;}
+.slick-dots {bottom: 30px;}
+.slick-next:before, .slick-prev:before{color: #242424;}

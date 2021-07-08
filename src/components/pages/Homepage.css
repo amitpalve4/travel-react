@@ -1,0 +1,8 @@
+.col-100{width: 100%;}
+.floatLft{float: left;}
+.wrapper{max-width: 1280px;width: 100%;display: inline-block;padding: 0 30px;}
+.sectionBanner{position: relative; background: url(../../assets/images/img-home.jpg) no-repeat center center/cover;padding: 50px;display: flex;justify-content: center;align-items: center;}
+.bannerContent{text-align: center;padding: 16% 0;}
+.bannerContent h1{color: #fff;margin: 10px 0;font-size: 80px;text-transform: uppercase;letter-spacing: 0.5px;}
+
+.sectionExplore{padding: 50px 0;display: flex;justify-content: center;}
